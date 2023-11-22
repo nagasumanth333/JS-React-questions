@@ -1,0 +1,25 @@
+.box{
+    height: 50px;
+    width: 50px;
+    border: 2px solid black;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#row1, #row3{
+    display: flex;
+}
+
+#row2{
+    display: flex;
+    justify-content: start;
+}
+
+.green-box{
+    background-color: green;
+}
