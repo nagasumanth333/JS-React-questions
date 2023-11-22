@@ -1,0 +1,20 @@
+.comment-box{
+    display: flex;
+    flex-direction: column;
+}
+
+/* .hide-inputBox{
+    display: none;
+} */
+
+.comment-container{
+    margin-left: 20px;
+}
+
+.comment-box{
+    border: 1px solid red;
+}
+
+.reply{
+    cursor: pointer;
+}
