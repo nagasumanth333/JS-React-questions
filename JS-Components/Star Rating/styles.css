@@ -1,0 +1,19 @@
+#container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#start-container{
+    margin-bottom: 50px;
+}
+
+.star{
+    font-size: 40px;
+    cursor: pointer;
+}
+
+.star-active{
+    color: yellow;
+}
