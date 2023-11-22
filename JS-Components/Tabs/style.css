@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+}
+
+.container > div{
+    margin: 10px;
+}
+
+.hidden{
+    display: none;
+}
+
+.active{
+    display: block;
+}
